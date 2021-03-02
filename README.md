@@ -12,3 +12,5 @@ A blockchain is broken down into 4 classes:
 
 The mine method avoids double spending
 
+Run npm start to see code in action
+
