@@ -4,11 +4,12 @@ using a cryptocurrency example
 Run install npm( Node version 12 +)
 Install typescript (npm install -D typescript @types/node)
 
+##CHECK index.ts to see code##
 A blockchain is broken down into 4 classes:
-1.Transaction - Transfer funds from one user to another
-2.Block - Container for multiple transactions
-3.Chain - Linked list for blocks
-4.Wallet - Allow people to send and receive funds
+Transaction - Transfer funds from one user to another
+Block - Container for multiple transactions
+Chain - Linked list for blocks
+Wallet - Allow people to send and receive funds
 
 The mine method avoids double spending
 
